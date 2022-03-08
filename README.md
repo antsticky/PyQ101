@@ -1,6 +1,9 @@
 # Stock monitoring with Slack integration
 ![](doc/PyQt_OTP.png)
 
+## Slack integration
+Any python application can send direct Slack messages through a webhook, a good documentation can be found [here](https://medium.com/@sharan.aadarsh/sending-notification-to-slack-using-python-8b71d4f622f3).
+
 ## Autostart
 For autostart create a `.desktop` file under the folder `~/.config/autostart` which has the following content:
 ```
