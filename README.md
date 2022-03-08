@@ -1,1 +1,1 @@
-# PyQ101
+# Stock monitoring with Slack integration

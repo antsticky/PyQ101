@@ -1,0 +1,7 @@
+PERIOD = "1d"
+INTERVAL = "5m"
+
+UPWARD_LIMIT = 11_200
+DOWNWARD_LIMIT = 10_000
+
+MY_PORTFOLIO = {"OTP.BD": {"value": 11200, "notional": 1}}
